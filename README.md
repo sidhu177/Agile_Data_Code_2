@@ -6,12 +6,6 @@ This is also the code for the [Realtime Predictive Analytics](http://datasyndrom
 
 Have problems? Please file an issue!
 
-## Data Syndrome
-
-Like my work? I am Principal Consultant at [Data Syndrome](http://datasyndrome.com), a consultancy offering assistance and training with building full-stack analytics products, applications and systems. Find us on the web at [datasyndrome.com](http://datasyndrome.com).
-
-![Data Syndrome Logo](images/data_syndrome_logo.png)
-
 ## Realtime Predictive Analytics Course
 
 There is now a video course using code from chapter 8, [Realtime Predictive Analytics with Kafka, PySpark, Spark MLlib and Spark Streaming](http://datasyndrome.com/video). Check it out now at [datasyndrome.com/video](http://datasyndrome.com/video).
